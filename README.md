@@ -1,6 +1,6 @@
 # 📚 Grupparbeten – Sammanställning
 
-Detta repository innehåller sammanställningar av tidigare grupparbeten jag varit delaktig i. Varje projekt presenteras med en kort sammanfattning och länk till originalrepositoryt.
+Detta repository innehåller sammanställningar av tidigare grupparbeten jag varit delaktig i. Varje projekt presenteras med en kort sammanfattning och länk till originalrepositoryt. Det finns även få grupparbeten bland mina andra repositorys.
 
 ---
 
