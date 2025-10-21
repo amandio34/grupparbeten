@@ -1,6 +1,6 @@
 # 📚 Grupparbeten – Sammanställning
 
-Detta repository innehåller sammanställningar av tidigare grupparbeten. Varje projekt presenteras med en kort sammanfattning och länk till originalrepositoryt.
+Detta repository innehåller sammanställningar av tidigare grupparbeten jag varit delaktig i. Varje projekt presenteras med en kort sammanfattning och länk till originalrepositoryt.
 
 ---
 
@@ -34,10 +34,10 @@ Projektet använder **TypeScript**, **JavaScript**, **Bootstrap**, **Sass** och 
 Målet är att användare ska kunna:
 - Boka platser och filmer  
 - Se tillgängliga och kommande filmer samt info om dem  
-- Interagera med ett dynamiskt gränssnitt
-- Kunna logga in användare för att se bokningshistorik mm.
+- Interagera med ett dynamiskt gränssnitt  
+- Kunna logga in användare för att se bokningshistorik m.m.
 
-🔗 **Originalrepo:** [https://github.com/Viktorwahlqvist/NeoCinema] (https://github.com/Viktorwahlqvist/NeoCinema)
+🔗 **Originalrepo:** [https://github.com/Viktorwahlqvist/NeoCinema](https://github.com/Viktorwahlqvist/NeoCinema)
 
 ---
 
